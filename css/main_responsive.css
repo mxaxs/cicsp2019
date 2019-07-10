@@ -251,4 +251,8 @@ http://themeforest.net/licenses
   .page-footer {
     display: none;
   }
+  .block-text {
+    height: 90vh;
+    overflow-y: auto;
+  }
 }

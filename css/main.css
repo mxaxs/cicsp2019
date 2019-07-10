@@ -1596,3 +1596,12 @@ strong,
 .show-for-medium-up {
   display: none;
 }
+.block-text {
+  display: inline-block;
+  top: 0%;
+  height: 50vh;
+  width: 90%;
+  overflow-y: scroll;
+  font-size: 12px;
+  text-decoration-style: dashed;
+}
